@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Test",
+    "comment": " Testing stuff.\n\n@docs something\n",
+    "aliases": [],
+    "types": [],
+    "values": [
+      {
+        "name": "something",
+        "comment": " Some thing....\n",
+        "type": "String"
+      }
+    ],
+    "generated-with-elm-version": "0.18.0"
+  }
+]
